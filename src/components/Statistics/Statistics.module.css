@@ -1,0 +1,18 @@
+.statCont {
+  display: flex;
+  gap: 20px;
+  font-size: medium;
+  margin: 20px 0;
+}
+
+.wrap {
+  border-radius: 50px;
+  border: 2px solid lightskyblue;
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 9px;
+  background-color: lightskyblue;
+  font-weight: 500;
+}
